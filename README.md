@@ -1,12 +1,47 @@
-# React + Vite
+# 📱 iPhone 15 Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An immersive landing page experience for the iPhone 15, built using **React**, **GSAP**, and **Three.js**. This project showcases interactive 3D animations, smooth scroll-triggered transitions, and a product-focused layout designed to highlight the elegance and features of the iPhone 15.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+> 🌐 [Click here to view the live website](https://your-deployment-url.com)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Features
+
+- 🌌 **3D iPhone Model** rendered in real-time using Three.js and `@react-three/fiber`.
+- 🎞️ **Scroll Animations** powered by GSAP and ScrollTrigger.
+- 🌗 **Smooth Transitions** with camera control and responsive layout.
+- 🔄 **Interactive Orbit Controls** (disabled zoom and pan for focused product view).
+- 🎨 Fully responsive design and dark-themed UI with TailwindCSS + DaisyUI (optional).
+- 💡 Modular and reusable components.
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Three.js](https://threejs.org/) via [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber)
+- [GSAP](https://greensock.com/gsap/)
+- [@react-three/drei](https://github.com/pmndrs/drei)
+- [TailwindCSS](https://tailwindcss.com/)
+- Vite for blazing fast development
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/iphone15-landing.git
+cd iphone15-landing
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
