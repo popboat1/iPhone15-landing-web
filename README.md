@@ -6,7 +6,7 @@ An immersive landing page experience for the iPhone 15, built using **React**, *
 
 ## 🚀 Live Demo
 
-> 🌐 [Click here to view the live website](https://your-deployment-url.com)  
+> 🌐 [Click here to view the live website](https://i-phone15-landing-web.vercel.app/)  
 
 ---
 
