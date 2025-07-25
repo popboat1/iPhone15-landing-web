@@ -36,7 +36,7 @@ An immersive landing page experience for the iPhone 15, built using **React**, *
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/iphone15-landing.git
+git clone https://https://github.com/popboat1/iPhone15-landing-web.git
 cd iphone15-landing
 
 # Install dependencies
